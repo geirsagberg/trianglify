@@ -20,7 +20,11 @@
     "type": "git",
     "url": "git://github.com/qrohlf/trianglify.git"
   },
-  "keywords": ["svg", "d3.js", "visualization"],
+  "keywords": [
+    "svg",
+    "d3.js",
+    "visualization"
+  ],
   "author": "Quinn Rohlf <qr@qrohlf.com>",
   "license": "GPL-3.0",
   "bugs": {
@@ -59,7 +63,9 @@
   "npmFileMap": [
     {
       "basePath": "dist",
-      "files": ["trianglify.min.js"]
+      "files": [
+        "trianglify.min.js"
+      ]
     }
   ]
 }
